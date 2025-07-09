@@ -18,12 +18,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-
-
----
-
 ## 📈 Career Goals
 
 I'm looking to join a QA team where I can:
