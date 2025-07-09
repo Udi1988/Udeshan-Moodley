@@ -6,6 +6,11 @@
 📍 Based in Nortland, New Zealand | Passionate about QA, Python scripting & process improvement
 
 ---
+## 📂 Featured Projects
+
+
+
+---
 
 ## 🧰 Tech Toolbox
 
