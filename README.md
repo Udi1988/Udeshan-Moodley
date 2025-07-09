@@ -8,12 +8,7 @@
 ---
 ## 📂 Featured Projects
 
-## 📂 Featured Projects
 
-### 🔍 Fruit Catalog Automation (Ubuntu + Python)
-- **Stack**: Python, JSON, Pillow (PIL), ReportLab, Bash, Git, Ubuntu Linux
-- **What I did**: Built an automation script that reads fruit data from a JSON file, resizes corresponding product images, and generates a professional PDF report. Designed the project to run in a Linux (Ubuntu) environment and organized it with a modular folder structure. Set up Git version control and pushed the complete project to GitHub for portfolio showcasing.
-- [View Repo »](https://github.com/Udi1988/fruit-catalog-automation)
 
 ---
 
