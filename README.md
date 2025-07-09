@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Udeshan Moodley
 
 🎯 ISTQB Certified Software Tester | Google IT Automation with Python Graduate  
-📍 Based in New Zealand | Passionate about QA, Python scripting & process improvement
+📍 Based in Nortland, New Zealand | Passionate about QA, Python scripting & process improvement
 
 ---
 
@@ -13,7 +13,7 @@
 - **QA Skills**: Test Planning, Manual Testing, Bug Reporting, Regression Testing
 - **Tools**: Selenium, Jira, Postman, Pytest, Git & GitHub, Linux
 - **Certifications**:
-  - ISTQB Foundation & Advanced Test Automation Engineer
+  - ISTQB Foundation 
   - Google IT Automation with Python
 
 ---
@@ -35,7 +35,7 @@
 ## 📈 Career Goals
 
 I'm looking to join a QA team where I can:
-- Apply my automation skills
+- Apply my manual testing & automation skills
 - Contribute to high-quality software
 - Continue learning in DevOps and Test Automation
 
