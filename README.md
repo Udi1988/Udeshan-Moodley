@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Udeshan Moodley
 
-🎯 ISTQB Certified Software Tester | Google IT Automation with Python Graduate  
+🎯 ISTQB Certified Software Tester | Google IT Automation with Python Certified
 📍 Based in Nortland, New Zealand | Passionate about QA, Python scripting & process improvement
 
 ---
@@ -20,15 +20,7 @@
 
 ## 📂 Featured Projects
 
-### 🛒 Fruit Store Catalog Automation (Python)
-- Automated product data updates using Python, Pillow, and ReportLab
-- Generated PDF reports, resized images, and emailed results
-- [View Project »](https://github.com/YourRepoLink)
 
-### 📋 QA Test Case Portfolio
-- Manual test cases for a sample e-commerce platform
-- Bug reports, test evidence, and test documentation
-- [View Project »](https://github.com/YourRepoLink)
 
 ---
 
